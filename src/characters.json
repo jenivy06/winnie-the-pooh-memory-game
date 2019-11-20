@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "clickygame-bee.png"
+    },
+    {
+        "id": 2,
+        "image": "clickygame-christopherrobin.png"
+    },
+    {
+        "id": 3,
+        "image": "clickygame-eeyore.png"
+    },
+    {
+        "id": 4,
+        "image": "clickygame-elephant.png"
+    },
+    {
+        "id": 5,
+        "image": "clickygame-gopher.png"
+    },
+    {
+        "id": 6,
+        "image": "clickygame-kanga.png"
+    },
+    {
+        "id": 7,
+        "image": "clickygame-owl.png"
+    },
+    {
+        "id": 8,
+        "image": "clickygame-piglet.png"
+    },
+    {
+        "id": 9,
+        "image": "clickygame-pooh.png"
+    },
+    {
+        "id": 10,
+        "image": "clickygame-rabbit.png"
+    },
+    {
+        "id": 11,
+        "image": "clickygame-roo.png"
+    },
+    {
+        "id": 12,
+        "image": "clickygame-tigger.png"
+    }
+]

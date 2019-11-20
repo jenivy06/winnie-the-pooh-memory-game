@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+.header{
+	background-color:#97C9EA ;
+	position: relative;
+	width: 100%;
+	color: #52400E
+}
+
+h1{
+	text-align: center;
+	margin-top: 0px;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 90px 0 20px 0; 
+	font-family: 'Merriweather', serif;
+	background: url("https://www.davidjones.com/images/assetimages/s18/campaigns/disney/catleaders/pooh.jpg");
+	background: cover;
+	opacity: 0.9;
+	width: 100%;
+	color: #97C9EA;
+	padding-bottom: 75px;
+	
+	
+}
+
+h2{
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 40px;
+}
+
+.wrapperindex {
+	height: 125vh;
+	padding-left: 73px;
+}
